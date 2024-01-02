@@ -1,18 +1,3 @@
-# pomodoro2
+# App Application 
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-https://youtu.be/4xsLEzRHA28?t=2960
+![Pomodoro](https://github.com/LeeGeonwoo22/FlutterPomodoro2/assets/71261997/85693596-3afa-4be7-ae61-066c63e24f70)
